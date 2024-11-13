@@ -1,0 +1,66 @@
+run clear
+exit
+\q
+help
+\e $PATH
+\e $_
+run cat Makefile
+run ps
+\cron
+run ls /tmp/vfs
+run sudo ls /tmp/vfs
+exit
+help
+\cron heehhe
+sh
+run ps
+run ps
+run ps
+\mem 3185
+exit
+run ps
+\mem 3134
+run ps
+\mem 3210
+exit
+exit
+sus
+exit
+exit
+run ps
+\mem 6277
+\mem 3986
+exit
+run ps
+\mem 3986
+exit
+\mem 3986
+exit
+run ps
+\mem 3986
+exit
+run ps
+\mem 3986
+exit
+exit
+exit
+exit
+run ps
+\mem 3674
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+help
+run ps
+\mem 10734
+exit
+exit
+exit
+exit
+exit
+exit
